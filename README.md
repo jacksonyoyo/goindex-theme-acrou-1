@@ -35,7 +35,8 @@ This theme's goindex is currently based on [yanzai/goindex](https://github.com/y
 
 1. Open the following link
 
-- https://goindex-builder-acrou.glitch.me
+簡單、自動的方法
+前往 - https://gdindex-code-builder.maple3142.net/ (英文) 並遵照它的指示。
 
 2. Auth and get the code
 3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
